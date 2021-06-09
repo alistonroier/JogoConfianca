@@ -1,10 +1,7 @@
 
 package jogoconfianca1;
 
-/**
- *
- * @author Usuario
- */
+
 public class JogoConfianca1 {
 
     /**
